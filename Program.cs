@@ -69,7 +69,7 @@ namespace C_.net
                     Console.Write(returned);
                 }
             
-                Console.WriteLine("\nWould you like to exit? Press x");
+                Console.Write("\nWould you like to exit? Press x, else press anything else: ");
                 String resp = Console.ReadLine();
                 
                 if(resp == "x" || resp=="X"){
