@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jotin\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jotin\\.nuget\\packages"
+    ]
+  }
+}

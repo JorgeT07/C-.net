@@ -1,0 +1,16 @@
+C:\Users\jotin\Revature\assignments\PO\C#Solution\C-.net\bin\Debug\net5.0\C-.net.exe
+C:\Users\jotin\Revature\assignments\PO\C#Solution\C-.net\bin\Debug\net5.0\C-.net.deps.json
+C:\Users\jotin\Revature\assignments\PO\C#Solution\C-.net\bin\Debug\net5.0\C-.net.runtimeconfig.json
+C:\Users\jotin\Revature\assignments\PO\C#Solution\C-.net\bin\Debug\net5.0\C-.net.runtimeconfig.dev.json
+C:\Users\jotin\Revature\assignments\PO\C#Solution\C-.net\bin\Debug\net5.0\C-.net.dll
+C:\Users\jotin\Revature\assignments\PO\C#Solution\C-.net\bin\Debug\net5.0\ref\C-.net.dll
+C:\Users\jotin\Revature\assignments\PO\C#Solution\C-.net\bin\Debug\net5.0\C-.net.pdb
+C:\Users\jotin\Revature\assignments\PO\C#Solution\C-.net\obj\Debug\net5.0\C-.net.csprojAssemblyReference.cache
+C:\Users\jotin\Revature\assignments\PO\C#Solution\C-.net\obj\Debug\net5.0\C-.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotin\Revature\assignments\PO\C#Solution\C-.net\obj\Debug\net5.0\C-.net.AssemblyInfoInputs.cache
+C:\Users\jotin\Revature\assignments\PO\C#Solution\C-.net\obj\Debug\net5.0\C-.net.AssemblyInfo.cs
+C:\Users\jotin\Revature\assignments\PO\C#Solution\C-.net\obj\Debug\net5.0\C-.net.csproj.CoreCompileInputs.cache
+C:\Users\jotin\Revature\assignments\PO\C#Solution\C-.net\obj\Debug\net5.0\C-.net.dll
+C:\Users\jotin\Revature\assignments\PO\C#Solution\C-.net\obj\Debug\net5.0\ref\C-.net.dll
+C:\Users\jotin\Revature\assignments\PO\C#Solution\C-.net\obj\Debug\net5.0\C-.net.pdb
+C:\Users\jotin\Revature\assignments\PO\C#Solution\C-.net\obj\Debug\net5.0\C-.net.genruntimeconfig.cache
